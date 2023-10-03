@@ -1,5 +1,7 @@
 package com.ohgiraffers.section01.conditional.level03;
 
+import java.util.Scanner;
+
 public class Application10 {
 
     public static void main(String[] args) {
@@ -29,6 +31,14 @@ public class Application10 {
                 정수2 : 4
                 없는 연산자입니다. 다시 입력해주세요.
 	   */
+
+        Scanner sc = new Scanner(System.in);
+        System.out.print("연산자 : ");
+        String cal = sc.nextLine();
+        System.out.print("정수 1 : ");
+        int first = sc.nextInt();
+        System.out.print("정수 2 : ");
+        int second = sc.nextInt();
 
     }
 }

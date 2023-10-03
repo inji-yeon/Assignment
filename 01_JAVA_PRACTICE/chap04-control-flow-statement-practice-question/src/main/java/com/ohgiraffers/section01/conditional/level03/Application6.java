@@ -19,15 +19,19 @@ public class Application6 {
         * */
 
 		Scanner sc = new Scanner(System.in);
-		System.out.print("1 이상의 숫자를 입력하세요 : ");
-		int num = sc.nextInt();
 
-		if(num >= 1) {
-			for (int i = 1; i <= num; i++) {
-				System.out.print(i + " ");
+		while(true) {
+			System.out.print("1 이상의 숫자를 입력하세요 : ");
+			int num = sc.nextInt();
+
+			if (num >= 1) {
+				for (int i = 1; i <= num; i++) {
+					System.out.print(i + " ");
+				}
+				break;
+			} else {
+				System.out.println("1 이상의 숫자를 입력해주세요.");
 			}
-		} else {
-			System.out.println("1 이상의 숫자를 입력해주세요.");
 		}
     }
 }
