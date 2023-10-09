@@ -5,12 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6acb81f0-b320-40a1-afa7-73f5efd0fa41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level01/basic/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level01/basic/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level02/normal/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level02/normal/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level02/normal/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level02/normal/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level02/normal/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level02/normal/Application6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section01/level02/normal/Application7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section02/demesional_array/level01/basic/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section02/demesional_array/level02/normal/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05-array-practice-question/src/main/java/com/ohgiraffers/section02/demesional_array/level02/normal/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/01_JAVA_PRACTICE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/01_JAVA_PRACTICE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application10.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application6.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application7.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application8.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application9.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application11.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application12.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level03/Application12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +52,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/chap04-control-flow-statement-practice-question">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/chap05-array-practice-question">
       <ProjectState />
     </projectState>
   </component>
@@ -51,29 +78,51 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2WABsNIS4K8g5Wz1Xz7uXI86e1S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/yeon-inji/Desktop/dev/03_assignment/01_JAVA_PRACTICE&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yeon-inji/Desktop/dev/03_assignment/01_JAVA_PRACTICE/untitled/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Application5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.conditional.level03.Application5" />
-      <module name="chap04-control-flow-statement-practice-question.main" />
+  <component name="RunManager" selected="Application.Application2">
+    <configuration name="Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.demesional_array.level01.basic.Application1" />
+      <module name="chap05-array-practice-question.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.section01.conditional.level03.*" />
+          <option name="PATTERN" value="com.ohgiraffers.section02.demesional_array.level01.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.demesional_array.level02.normal.Application2" />
+      <module name="chap05-array-practice-question.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.demesional_array.level02.normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="Application6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.conditional.level03.Application6" />
-      <module name="chap04-control-flow-statement-practice-question.main" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.level02.normal.Application6" />
+      <module name="chap05-array-practice-question.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.section01.conditional.level03.*" />
+          <option name="PATTERN" value="com.ohgiraffers.section01.level02.normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +144,11 @@
       </method>
     </configuration>
     <configuration name="Application7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.conditional.level03.Application7" />
-      <module name="chap04-control-flow-statement-practice-question.main" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.level02.normal.Application7" />
+      <module name="chap05-array-practice-question.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.section01.conditional.level03.*" />
+          <option name="PATTERN" value="com.ohgiraffers.section01.level02.normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,25 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.conditional.level03.Application8" />
-      <module name="chap04-control-flow-statement-practice-question.main" />
+    <configuration name="com.ohgiraffers.section02.demesional_array.level02.normal.Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.demesional_array.level02.normal.Application1" />
+      <module name="chap05-array-practice-question.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.section01.conditional.level03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.conditional.level03.Application9" />
-      <module name="chap04-control-flow-statement-practice-question.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.section01.conditional.level03.*" />
+          <option name="PATTERN" value="com.ohgiraffers.section02.demesional_array.level02.normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application9" />
-        <item itemvalue="Application.Application8" />
+        <item itemvalue="Application.Application2" />
+        <item itemvalue="Application.com.ohgiraffers.section02.demesional_array.level02.normal.Application1" />
+        <item itemvalue="Application.Application1" />
         <item itemvalue="Application.Application7" />
         <item itemvalue="Application.Application6" />
-        <item itemvalue="Application.Application5" />
       </list>
     </recent_temporary>
   </component>
@@ -154,11 +190,36 @@
       <workItem from="1696165711511" duration="1185000" />
       <workItem from="1696248317440" duration="1297000" />
       <workItem from="1696334987228" duration="5951000" />
-      <workItem from="1696341318522" duration="2616000" />
+      <workItem from="1696341318522" duration="2893000" />
+      <workItem from="1696739692103" duration="22000" />
+      <workItem from="1696745069192" duration="14000" />
+      <workItem from="1696745114984" duration="6752000" />
+      <workItem from="1696845843239" duration="111000" />
+      <workItem from="1696845962128" duration="37000" />
+      <workItem from="1696846050065" duration="154000" />
+      <workItem from="1696846217915" duration="74000" />
+      <workItem from="1696846302484" duration="87000" />
+      <workItem from="1696846439171" duration="140000" />
+      <workItem from="1696846714444" duration="3996000" />
+      <workItem from="1696853209758" duration="8533000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
